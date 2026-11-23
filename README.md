@@ -3,3 +3,5 @@
 Estou testando Folk com PR
 
 Teste Issues
+
+adicionado rodrigomourapinto como colaborar para yoho
